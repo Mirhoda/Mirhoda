@@ -1,10 +1,14 @@
-                                                                                             👋
-                                                                                   Hi, I'm Mobinul Hoda
+                                                                     👋
+                                                                          
+                                                             Hi, I'm Mobinul Hoda
 
-                                                                               - 👀 I’m interested in coding
-                                                                          - 🌱 I’m currently learning HTML,CSS3, JS
-                                                                  - 💞️ I’m looking to collaborate on full stack developer
-                                                                        - 📫 How to reach me mobinulhoda@gmail.com
+                                                          👀 I’m interested in coding
+                                                              
+                                                   🌱 I’m currently learning HTML,CSS3, JS
+                                                        
+                                           💞️ I’m looking to collaborate on full stack developer
+                                                       
+                                                 📫 How to reach me mobinulhoda@gmail.com
 
 <!---
 Mirhoda/Mirhoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
